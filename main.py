@@ -1,3 +1,6 @@
+
+from otherClass import otherClass
+
 def main():
     print('Git Project with Branches')
 
