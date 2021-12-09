@@ -6,7 +6,7 @@ def main():
 
 def printAuthor():
     print('Designed by OLO and Co.')
-
+    print('We are from Perm!')
 
 if __name__ == '__main__':
     printAuthor()
